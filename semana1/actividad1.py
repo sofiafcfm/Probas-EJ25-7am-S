@@ -1,8 +1,1 @@
-
-
-
-
-
-
-
-
+print("Hola mundo")
